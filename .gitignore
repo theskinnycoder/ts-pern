@@ -1,0 +1,9 @@
+**/node_modules/
+**/.git/
+**/tests/
+**/dist/
+**/build/
+**/*.eslintcache
+**/*.env
+**/*.error
+**/*.log
